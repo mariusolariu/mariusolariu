@@ -2,7 +2,7 @@
 
 Hi, 
 
-I am Marius and I am a high performer Software Engineer with 4+ years of experience in developing complex Web and Desktop
+I am Marius and I am a high performer Senior Software Engineer with 4+ years of experience in developing complex Web and Desktop
 apps. Due to my curious mind I worked in different industries like supply chain, project management, artificial
 intelligence, big pharmacology and now IT consulting. One of my best professional strengths is the passion for learning and my
 ideal place is one where growth is encouraged and supported. My main technology skills are Java, Spring, AWS,
