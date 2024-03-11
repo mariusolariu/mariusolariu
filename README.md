@@ -12,4 +12,4 @@ gives me the right to work and live in UK without a visa.
 In the coming years I will be focusing on expanding my knowledge and skills in **Artificial Intelligence** and **Cloud Computing**.
 
 In my free time I like to socialize with friends, practice martial arts, travel or enjoy good books.
-I also teach Computer Science on [superprof.co.uk](https://www.superprof.co.uk/high-performer-senior-eng-teaches-computer-science-algorithms-and-how-think-like-programmer-can-teach-mentor-anyone-from.html).
+I also teach Computer Science on [superprof.co.uk](https://www.superprof.co.uk/highly-skilled-and-patient-software-engineer-providing-comprehensive-programming-lessons-python-java-javascript-react-and.html).
