@@ -8,10 +8,3 @@ intelligence, big pharmacology. One of my best professional strengths is the pas
 ideal place is one where growth is encouraged and supported. My main technology skills are Java, Spring, AWS,
 JavaScript, SQL and React but I love exploring new technologies as well. I have EU pre-settled status which
 gives me the right to work and live in UK without a visa.
-
-In the coming years I will be focusing on expanding my knowledge and skills in **Artificial Intelligence** and **Cloud Computing**.
-
-To get an up-to-date CV please visit [marius-olariu.net](https://www.marius-olariu.net)  
-
-In my free time I like to fly, socialize with friends, practice martial arts, travel or enjoy good books.
-I also teach Computer Science on [superprof.co.uk](https://www.superprof.co.uk/highly-skilled-and-patient-software-engineer-providing-comprehensive-programming-lessons-python-java-javascript-react-and.html).
