@@ -2,6 +2,6 @@
 
 Hi, 
 
-I am Marius, a Senior Full-Stack Software Engineer with nine years of experience building web applications. My CV is at https://mariusolariu.github.io. One of my best professional strengths is the passion for learning and my
-ideal place is one where growth is encouraged and supported. My main technology skills are Java, Spring, AWS,
-JavaScript, SQL and React but I love exploring new technologies as well. I have settled status in the UK, so I need no sponsorship.
+I am Marius, a Senior Full-Stack Software Engineer with 7 years of experience building web applications. You can find more about me on [my website](https://mariusolariu.github.io/) and download my CV which contains my email address. 
+
+I specialise in backend engineering with Java, Spring, AWS, and SQL, with exposure as well to frontend development in TypeScript, React and Next. I am passionate about software development productivity and like environments where career growth is supported.
